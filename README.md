@@ -1,6 +1,6 @@
 # Physics-Simulation
 
-##This project was built to visualize physical phenomena using animations and GUI, written in Python using custom modules and Tkinter.
+## This project was built to visualize physical phenomena using animations and GUI, written in Python using custom modules and Tkinter.
 
 With this physics simulator, you’re able to change what
 you want to change--mass, height, or velocity--depending on which scenario you 
